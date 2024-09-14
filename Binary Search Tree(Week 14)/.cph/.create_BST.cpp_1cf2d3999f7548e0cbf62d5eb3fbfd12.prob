@@ -1,0 +1,1 @@
+{"name":"Local: create_BST","url":"d:\\supreme\\Binary Search Tree(Week 14)\\create_BST.cpp","tests":[{"id":1707756969901,"input":"50 30 60 25 40 70 80 55 -1","output":"20\n10 30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\supreme\\Binary Search Tree(Week 14)\\create_BST.cpp","group":"local","local":true}
